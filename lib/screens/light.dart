@@ -242,7 +242,7 @@ class _LightScreenState extends State<LightScreen>
                               fontSize: 15, fontWeight: FontWeight.w500),
                         ),
                         Text(
-                          'Choosed: $modeName',
+                          'Choose: $modeName',
                           style: TextStyle(
                             fontSize: 14,
                           ),
