@@ -3,8 +3,10 @@
 A Flutter-based mobile application to control LED lighting for coral using Bluetooth Low Energy (BLE). The app communicates with an ESP32 via a BLE server, allowing users to adjust LED brightness, colors, and lighting schedules to optimize coral growth.
 
 ## 📸 App Preview
-![App Screenshot](https://github.com/7uicy/flutter-coral-light-control-app/blob/master/48099_0.jpg?raw=true)  
-*(Replace `path/to/your/image.png` with the actual path to your screenshot.)*
+| ![Home Screen](https://raw.githubusercontent.com/7uicy/flutter-coral-light-control-app/refs/heads/master/48099_0.jpg) | ![Find Bluetooth Screen](https://github.com/7uicy/flutter-coral-light-control-app/blob/master/48100_0.jpg?raw=true) |
+|:--------------------------------------:|:--------------------------------------:|
+| *Home Screen* | *Find Bluetooth Screen* |
+ 
 
 ## ✨ Features
 - 🔵 Connects to ESP32 via Bluetooth Low Energy (BLE)
